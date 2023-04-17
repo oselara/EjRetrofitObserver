@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EjRetrofitObserver</string>
+    <string name="nohay">No hay películas en este momento</string>
+    <string name="poster">poster</string>
+    <string name="flecha">flecha</string>
+</resources>
